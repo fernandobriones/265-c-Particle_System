@@ -1,0 +1,8 @@
+﻿  Particle.cpp
+c:\users\fbriones\source\repos\particle s\particle.cpp(56): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\fbriones\source\repos\particle s\particle.cpp(61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fbriones\source\repos\particle s\particle.cpp(62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fbriones\source\repos\particle s\particle.cpp(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fbriones\source\repos\particle s\particle.cpp(71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Particle S.vcxproj -> C:\Users\fbriones\source\repos\Particle S\Debug\Particle S.exe
+  Particle S.vcxproj -> C:\Users\fbriones\source\repos\Particle S\Debug\Particle S.pdb (Partial PDB)
